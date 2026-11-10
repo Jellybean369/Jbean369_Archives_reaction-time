@@ -1,3 +1,4 @@
+> Note: Hold GND then press a pin for it to work.
 
 > Open this page at [https://jellybean369.github.io/Jbean369_Archives_reaction-time/](https://jellybean369.github.io/Jbean369_Archives_reaction-time/)
 
